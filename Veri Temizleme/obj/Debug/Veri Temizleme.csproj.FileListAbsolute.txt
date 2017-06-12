@@ -1,0 +1,18 @@
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe.config
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.pdb
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csprojResolveAssemblyReference.cache
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Properties.Resources.resources
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csproj.GenerateResource.Cache
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.exe
+c:\users\tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.pdb
+C:\Users\Tolga\documents\visual studio 2015\Projects\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Form2.resources
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csprojResolveAssemblyReference.cache
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Form2.resources
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\obj\Debug\Veri_Temizleme.Properties.Resources.resources
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.csproj.GenerateResource.Cache
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.exe
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\obj\Debug\Veri Temizleme.pdb
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe.config
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.exe
+D:\Lesson\4.2 dönem\veri madenciligi\Veri Temizleme\Veri Temizleme\bin\Debug\Veri Temizleme.pdb
